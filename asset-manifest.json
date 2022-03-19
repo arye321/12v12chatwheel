@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arye321.github.io/csb-d6qsc4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://arye321.github.io/csb-d6qsc4/static/js/main.c2b0121e.chunk.js",
+    "main.js.map": "https://arye321.github.io/csb-d6qsc4/static/js/main.c2b0121e.chunk.js.map",
+    "runtime-main.js": "https://arye321.github.io/csb-d6qsc4/static/js/runtime-main.b5f15833.js",
+    "runtime-main.js.map": "https://arye321.github.io/csb-d6qsc4/static/js/runtime-main.b5f15833.js.map",
+    "static/js/2.7641c81f.chunk.js": "https://arye321.github.io/csb-d6qsc4/static/js/2.7641c81f.chunk.js",
+    "static/js/2.7641c81f.chunk.js.map": "https://arye321.github.io/csb-d6qsc4/static/js/2.7641c81f.chunk.js.map",
+    "index.html": "https://arye321.github.io/csb-d6qsc4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://arye321.github.io/csb-d6qsc4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7641c81f.chunk.js.LICENSE.txt": "https://arye321.github.io/csb-d6qsc4/static/js/2.7641c81f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5f15833.js",
+    "static/js/2.7641c81f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c2b0121e.chunk.js"
+  ]
+}
