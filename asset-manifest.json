@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/arye321/12v12chatwheel/static/css/main.fc5c2c69.css",
-    "main.js": "/arye321/12v12chatwheel/static/js/main.47cca64e.js",
-    "index.html": "/arye321/12v12chatwheel/index.html",
-    "main.fc5c2c69.css.map": "/arye321/12v12chatwheel/static/css/main.fc5c2c69.css.map",
-    "main.47cca64e.js.map": "/arye321/12v12chatwheel/static/js/main.47cca64e.js.map"
+    "main.css": "/dota12v12chatwheel/static/css/main.fc5c2c69.css",
+    "main.js": "/dota12v12chatwheel/static/js/main.47cca64e.js",
+    "index.html": "/dota12v12chatwheel/index.html",
+    "main.fc5c2c69.css.map": "/dota12v12chatwheel/static/css/main.fc5c2c69.css.map",
+    "main.47cca64e.js.map": "/dota12v12chatwheel/static/js/main.47cca64e.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
